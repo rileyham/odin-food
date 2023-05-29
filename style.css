@@ -8,9 +8,18 @@ h2 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+p, li {
+    margin: auto 360px;;
+}
+
+
 .title {
     font-weight: bold;
     font-size:80px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.list-holder {
+    margin: 50px auto;
 }
 
