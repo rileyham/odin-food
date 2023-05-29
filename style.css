@@ -1,0 +1,16 @@
+* {
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.title {
+    font-weight: bold;
+    font-size:80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
